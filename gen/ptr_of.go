@@ -3,7 +3,7 @@ package gen
 import (
 	"reflect"
 
-	"github.com/leanovate/gopter"
+	"github.com/rerorero/gopter"
 )
 
 // PtrOf generates a pointer to a generated element

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/leanovate/gopter"
+	"github.com/rerorero/gopter"
 )
 
 // WeightedGen adds a weight number to a generator.

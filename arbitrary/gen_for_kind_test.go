@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/leanovate/gopter"
-	"github.com/leanovate/gopter/arbitrary"
+	"github.com/rerorero/gopter"
+	"github.com/rerorero/gopter/arbitrary"
 )
 
 func commonGeneratorTest(t *testing.T, name string, gen gopter.Gen, valueCheck func(interface{}) bool) {

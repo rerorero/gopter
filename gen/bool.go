@@ -1,6 +1,6 @@
 package gen
 
-import "github.com/leanovate/gopter"
+import "github.com/rerorero/gopter"
 
 // Bool generates an arbitrary bool value
 func Bool() gopter.Gen {

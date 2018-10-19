@@ -4,8 +4,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/leanovate/gopter"
-	"github.com/leanovate/gopter/prop"
+	"github.com/rerorero/gopter"
+	"github.com/rerorero/gopter/prop"
 )
 
 func TestErrorProp(t *testing.T) {

@@ -3,7 +3,7 @@ package gen
 import (
 	"time"
 
-	"github.com/leanovate/gopter"
+	"github.com/rerorero/gopter"
 )
 
 // Time generates an arbitrary time.Time within year [0, 9999]

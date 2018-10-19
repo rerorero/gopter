@@ -6,7 +6,7 @@ import (
 	"regexp/syntax"
 	"strings"
 
-	"github.com/leanovate/gopter"
+	"github.com/rerorero/gopter"
 )
 
 // RegexMatch generates matches for a given regular expression

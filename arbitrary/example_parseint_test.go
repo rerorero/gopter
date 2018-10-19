@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/leanovate/gopter"
-	"github.com/leanovate/gopter/arbitrary"
+	"github.com/rerorero/gopter"
+	"github.com/rerorero/gopter/arbitrary"
 )
 
 func Example_parseint() {

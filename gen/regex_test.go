@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/leanovate/gopter/gen"
+	"github.com/rerorero/gopter/gen"
 )
 
 func TestRegexMatch(t *testing.T) {

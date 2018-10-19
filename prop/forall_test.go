@@ -4,9 +4,9 @@ import (
 	"math"
 	"testing"
 
-	"github.com/leanovate/gopter"
-	"github.com/leanovate/gopter/gen"
-	"github.com/leanovate/gopter/prop"
+	"github.com/rerorero/gopter"
+	"github.com/rerorero/gopter/gen"
+	"github.com/rerorero/gopter/prop"
 )
 
 func TestSqrt(t *testing.T) {

@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/leanovate/gopter"
-	"github.com/leanovate/gopter/gen"
-	"github.com/leanovate/gopter/prop"
+	"github.com/rerorero/gopter"
+	"github.com/rerorero/gopter/gen"
+	"github.com/rerorero/gopter/prop"
 )
 
 // Fizzbuzz: See https://wikipedia.org/wiki/Fizz_buzz

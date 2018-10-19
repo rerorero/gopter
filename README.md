@@ -1,9 +1,9 @@
 # GOPTER
 
 ... the GOlang Property TestER
-[![Build Status](https://travis-ci.org/leanovate/gopter.svg?branch=master)](https://travis-ci.org/leanovate/gopter)
-[![codecov](https://codecov.io/gh/leanovate/gopter/branch/master/graph/badge.svg)](https://codecov.io/gh/leanovate/gopter)
-[![GoDoc](https://godoc.org/github.com/leanovate/gopter?status.png)](https://godoc.org/github.com/leanovate/gopter)
+[![Build Status](https://travis-ci.org/rerorero/gopter.svg?branch=master)](https://travis-ci.org/rerorero/gopter)
+[![codecov](https://codecov.io/gh/rerorero/gopter/branch/master/graph/badge.svg)](https://codecov.io/gh/rerorero/gopter)
+[![GoDoc](https://godoc.org/github.com/rerorero/gopter?status.png)](https://godoc.org/github.com/rerorero/gopter)
 
 [Change Log](CHANGELOG.md)
 
@@ -32,12 +32,12 @@ Main differences to the testing/quick package:
 
 Current godocs:
 
-* [gopter](https://godoc.org/github.com/leanovate/gopter):  Main interfaces
-* [gopter/gen](https://godoc.org/github.com/leanovate/gopter/gen): All commonly used generators
-* [gopter/prop](https://godoc.org/github.com/leanovate/gopter/prop): Common helpers to create properties from a condition function and specific generators
-* [gopter/arbitrary](https://godoc.org/github.com/leanovate/gopter/arbitrary): Helpers automatically combine generators for arbitrary types
-* [gopter/commands](https://godoc.org/github.com/leanovate/gopter/commands): Helpers to create stateful tests based on arbitrary commands
-* [gopter/convey](https://godoc.org/github.com/leanovate/gopter/convey): Helpers used by gopter inside goconvey tests
+* [gopter](https://godoc.org/github.com/rerorero/gopter):  Main interfaces
+* [gopter/gen](https://godoc.org/github.com/rerorero/gopter/gen): All commonly used generators
+* [gopter/prop](https://godoc.org/github.com/rerorero/gopter/prop): Common helpers to create properties from a condition function and specific generators
+* [gopter/arbitrary](https://godoc.org/github.com/rerorero/gopter/arbitrary): Helpers automatically combine generators for arbitrary types
+* [gopter/commands](https://godoc.org/github.com/rerorero/gopter/commands): Helpers to create stateful tests based on arbitrary commands
+* [gopter/convey](https://godoc.org/github.com/rerorero/gopter/convey): Helpers used by gopter inside goconvey tests
 
 ## License
 

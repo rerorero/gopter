@@ -3,7 +3,7 @@ package gen
 import (
 	"reflect"
 
-	"github.com/leanovate/gopter"
+	"github.com/rerorero/gopter"
 )
 
 // MapOf generates an arbitrary map of generated kay values.

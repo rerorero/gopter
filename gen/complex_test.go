@@ -4,7 +4,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/leanovate/gopter/gen"
+	"github.com/rerorero/gopter/gen"
 )
 
 func TestComplex128Box(t *testing.T) {

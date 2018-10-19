@@ -3,9 +3,9 @@ package commands
 import (
 	"reflect"
 
-	"github.com/leanovate/gopter"
-	"github.com/leanovate/gopter/gen"
-	"github.com/leanovate/gopter/prop"
+	"github.com/rerorero/gopter"
+	"github.com/rerorero/gopter/gen"
+	"github.com/rerorero/gopter/prop"
 )
 
 // Commands provide an entry point for testing a stateful system

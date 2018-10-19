@@ -3,8 +3,8 @@ package arbitrary
 import (
 	"reflect"
 
-	"github.com/leanovate/gopter"
-	"github.com/leanovate/gopter/gen"
+	"github.com/rerorero/gopter"
+	"github.com/rerorero/gopter/gen"
 )
 
 func mapBoolish(to reflect.Type, v interface{}) interface{} {

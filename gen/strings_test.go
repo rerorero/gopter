@@ -5,8 +5,8 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/leanovate/gopter"
-	"github.com/leanovate/gopter/gen"
+	"github.com/rerorero/gopter"
+	"github.com/rerorero/gopter/gen"
 )
 
 func TestRune(t *testing.T) {

@@ -3,9 +3,9 @@ package commands_test
 import (
 	"testing"
 
-	"github.com/leanovate/gopter"
-	"github.com/leanovate/gopter/commands"
-	"github.com/leanovate/gopter/gen"
+	"github.com/rerorero/gopter"
+	"github.com/rerorero/gopter/commands"
+	"github.com/rerorero/gopter/gen"
 )
 
 type counter struct {

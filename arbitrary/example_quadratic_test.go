@@ -4,9 +4,9 @@ import (
 	"errors"
 	"math/cmplx"
 
-	"github.com/leanovate/gopter"
-	"github.com/leanovate/gopter/arbitrary"
-	"github.com/leanovate/gopter/gen"
+	"github.com/rerorero/gopter"
+	"github.com/rerorero/gopter/arbitrary"
+	"github.com/rerorero/gopter/gen"
 )
 
 type QudraticEquation struct {

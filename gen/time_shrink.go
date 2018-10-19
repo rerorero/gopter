@@ -3,7 +3,7 @@ package gen
 import (
 	"time"
 
-	"github.com/leanovate/gopter"
+	"github.com/rerorero/gopter"
 )
 
 // TimeShrinker is a shrinker for time.Time structs

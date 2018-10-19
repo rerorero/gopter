@@ -3,8 +3,8 @@ package gen_test
 import (
 	"testing"
 
-	"github.com/leanovate/gopter"
-	"github.com/leanovate/gopter/gen"
+	"github.com/rerorero/gopter"
+	"github.com/rerorero/gopter/gen"
 )
 
 func TestRetryUntil(t *testing.T) {

@@ -1,8 +1,8 @@
 package arbitrary_test
 
 import (
-	"github.com/leanovate/gopter"
-	"github.com/leanovate/gopter/arbitrary"
+	"github.com/rerorero/gopter"
+	"github.com/rerorero/gopter/arbitrary"
 )
 
 type MyStringType string

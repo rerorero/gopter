@@ -3,7 +3,7 @@ package gen
 import (
 	"math"
 
-	"github.com/leanovate/gopter"
+	"github.com/rerorero/gopter"
 )
 
 type float64Shrink struct {

@@ -3,7 +3,7 @@ package prop
 import (
 	"fmt"
 
-	"github.com/leanovate/gopter"
+	"github.com/rerorero/gopter"
 )
 
 func convertResult(result interface{}, err error) *gopter.PropResult {

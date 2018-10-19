@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/leanovate/gopter/gen"
+	"github.com/rerorero/gopter/gen"
 )
 
 func TestMapShrinkerOne(t *testing.T) {

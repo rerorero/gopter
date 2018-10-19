@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/leanovate/gopter/arbitrary"
+	"github.com/rerorero/gopter/arbitrary"
 )
 
 func TestArbitrariesSlices(t *testing.T) {

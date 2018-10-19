@@ -1,6 +1,6 @@
 package gen
 
-import "github.com/leanovate/gopter"
+import "github.com/rerorero/gopter"
 
 var runeSliceShrinker = SliceShrinker(gopter.NoShrinker)
 

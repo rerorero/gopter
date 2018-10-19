@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/leanovate/gopter"
+	"github.com/rerorero/gopter"
 )
 
 func constGen(value interface{}) gopter.Gen {

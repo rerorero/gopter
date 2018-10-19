@@ -3,9 +3,9 @@ package convey
 import (
 	"bytes"
 
-	"github.com/leanovate/gopter"
-	"github.com/leanovate/gopter/arbitrary"
-	"github.com/leanovate/gopter/prop"
+	"github.com/rerorero/gopter"
+	"github.com/rerorero/gopter/arbitrary"
+	"github.com/rerorero/gopter/prop"
 )
 
 func ShouldSucceedForAll(condition interface{}, params ...interface{}) string {

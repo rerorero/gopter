@@ -61,5 +61,5 @@
 ### Added
 - Initial implementation.
 
-[Unreleased]: https://github.com/leanovate/gopter/compare/v0.1...HEAD
-[0.1]: https://github.com/leanovate/gopter/tree/v0.1
+[Unreleased]: https://github.com/rerorero/gopter/compare/v0.1...HEAD
+[0.1]: https://github.com/rerorero/gopter/tree/v0.1

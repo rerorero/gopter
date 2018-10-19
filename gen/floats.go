@@ -4,7 +4,7 @@ import (
 	"math"
 	"reflect"
 
-	"github.com/leanovate/gopter"
+	"github.com/rerorero/gopter"
 )
 
 // Float64Range generates float64 numbers within a given range
